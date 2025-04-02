@@ -71,6 +71,6 @@ python predict.py
 Distributed under MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - youremail@example.com
+Om Surve- [LinkedIn](www.linkedin.com/in/om-surve-424a37256) - omsurve310704@outlook.com
 
 Project Link: [https://github.com/yourusername/stock-price-detection](https://github.com/yourusername/stock-price-detection)
