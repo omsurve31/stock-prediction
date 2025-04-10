@@ -73,4 +73,4 @@ Distributed under MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 Om Surve- [LinkedIn](www.linkedin.com/in/om-surve-424a37256) - omsurve310704@outlook.com
 
-Project Link: [https://github.com/yourusername/stock-price-detection](https://github.com/yourusername/stock-price-detection)
+Project Link: [https://github.com/omsurve31/stock-price-detection](https://github.com/omsurve31/stock-price-detection)
